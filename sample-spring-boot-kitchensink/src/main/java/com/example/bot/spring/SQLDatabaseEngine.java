@@ -75,7 +75,7 @@ public class SQLDatabaseEngine extends DatabaseEngine {
 		
 		
 		
-		return null;
+		return text;
 	}
 	
 	
